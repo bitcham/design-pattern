@@ -1,9 +1,5 @@
 # GoF Design Pattern
 
-- To understand and record the concepts, structures, pros/cons, and use cases of the GoF design patterns.
-- To supplement understanding with simple code examples (where applicable) and explanations for practical application.
-- To track personal learning progress and serve as a review resource.
-
 ## Patterns Covered (23 Patterns)
 
 ### 1. Creational Patterns
