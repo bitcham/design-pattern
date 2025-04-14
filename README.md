@@ -1,5 +1,8 @@
 # GoF Design Pattern
 
+### Blog(Learning Note)
+https://bitcham.blogspot.com/search/label/designpattern
+
 ## Patterns Covered (23 Patterns)
 
 ### 1. Creational Patterns
@@ -35,5 +38,4 @@
 - [ ] Visitor
 
 
-### Blog(Learning Note)
-https://bitcham.blogspot.com/search/label/designpattern
+
